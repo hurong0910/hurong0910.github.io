@@ -11,7 +11,7 @@ Email: 896410521@qq.com
 
 # Education:
 
-Ph.D. in Computer Science and Applied Science, Nanjing University of Science and Technology, Full-time, 2009.2--- 2014.1
+Ph.D. in Computer Science and Applied Science, Nanjing University of Science and Technology, Full-time, 2009.2- 2014.1
 
 Master's in Computer Application Technology, Changsha University of Science and Technology, Full-time, 2003.9-2006.7
 
@@ -109,4 +109,4 @@ Traffic Information Processing
 
 Fluent in Mandarin Chinese and English.
 
-[点此访问 Rong Hu的教师个人主页。](https://faculty.fjut.edu.cn/hurong/zh_CN/index.htm)
+[点此访问 Rong Hu 的教师个人主页。](https://faculty.fjut.edu.cn/hurong/zh_CN/index.htm)
