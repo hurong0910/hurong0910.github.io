@@ -1,4 +1,4 @@
-Rong Hu
+# Rong Hu
 
 Ph.D., Professor
 
@@ -8,7 +8,7 @@ Tel: 15750818158
 
 Email: 896410521@qq.com
 
-Education:
+# Education:
 
 Ph.D. in Computer Science and Applied Science, Nanjing University of Science and Technology, Full-time, 2009.2-present
 
@@ -20,7 +20,7 @@ Bachelor's in Management, Beijing University of Business and Economics, 2000.3-2
 
 Bachelor's in Accounting, Central Radio and Television University, 2000.3-2003.6
 
-Work Experience:
+# Work Experience:
 
 Professor, a member of the Academic Committee at Fujian University of Technology.2013.6-present
 
@@ -32,12 +32,12 @@ Associate Professor, Changsha Aviation Vocational and Technical College, 2006.7-
 
 Teacher, Academic Administration, Hunan Yiyang Radio and Television University, 1996.9-2003.9
 
-Research Summary:
+# Research Summary:
 
 Experienced professor and researcher specializing in traffic information processing, Beidou navigation applications, and big data processing. Successfully completed multiple research projects, including intrusion detection technology for vehicle networks, smart city emergency services based on digital twins, and eye region segmentation technology for fatigue driving detection.
 Published research papers in reputable journals and participated in international conferences. Currently leading the Intelligent Autonomous Driving Technology Fujian Provincial University Engineering Research Center.
 
-Skills:
+# Skills:
 
 Artificial Intelligence
 
@@ -47,9 +47,9 @@ Big Data Analysis
 
 Traffic Information Processing
 
-Publications:
+# Publications:
 
-Journal:
+## Journal:
 
 1.Xiang Y, Hu R, Xu Y, Hsu C-Y, Du C. Gaussian Weighted Eye State Determination for Driving Fatigue Detection. Mathematics. 2023; 11(9):2101. https://doi.org/10.3390/math11092101.
 
@@ -86,7 +86,7 @@ Journal:
 17.Rong H , Wei-hong X,Ye X, An Improved Fuzzy Neural Network Based on RBF, Journal of Ningxia University(Natural Science Edition), 2009,vol.31(3):239-241.
  
 
-Conference: 
+## Conference: 
 
 1．Nziyumva, Eric, Rong Hu, Chih-Yu Hsu, and Jovial Niyogisubizo. "Electrical Load Forecasting Using Hybrid of Extreme Gradient Boosting and Light Gradient Boosting Machine." In The International Conference on Image, Vision and Intelligent Systems (ICIVIS 2021), pp. 1083-1093. Springer, Singapore, 2022.
 
@@ -104,8 +104,8 @@ Conference:
 
 
 
-Languages:
+# Languages:
 
 Fluent in Mandarin Chinese and English.
 
-[点此访问 Rong Hu的CSDN博客。](https://blog.csdn.net/wenhao_ir)
+[点此访问 Rong Hu的教师个人主页。](https://faculty.fjut.edu.cn/hurong/zh_CN/index.htm)
